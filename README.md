@@ -81,8 +81,6 @@ The notebook sends HTTP requests to the practice website. Successful execution d
 ## Data Source
 [Books to Scrape](https://books.toscrape.com/)
 
-Author
-Completed as a Python web scraping and data analysis project for the CodeAlpha Data Analytics Internship.
 
 ## Author
 Completed as a Python web scraping and data analysis project for the CodeAlpha Data Analytics Internship.
