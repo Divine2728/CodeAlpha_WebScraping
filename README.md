@@ -66,7 +66,7 @@ In the 100-book sample, Sequential Art appeared 14 times and Nonfiction appeared
 These results describe the five catalogue pages collected for this project; they should not be interpreted as statistics for the entire website.
 
 ## Project Files
-- `CodeAlpha_WebScraping.ipynb` — notebook containing the scraping, cleaning, validation, and analysis workflow
+- `CodeAlpha_WebScraping_ipnyb.ipynb` — notebook containing the scraping, cleaning, validation, and analysis workflow
 - `CodeAlpha_Ecommerce_Product_Data.csv` — exported dataset
 
 ## How to Run
